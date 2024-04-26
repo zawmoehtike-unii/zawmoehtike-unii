@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on team
-- 📫 How to reach me [...](https://twitter.com/zawmoehtike)
+- 📫 How to reach me [twitter](https://twitter.com/zawmoehtike)
 - 😄 Pronouns: Zaw
 - ⚡ Fun fact: Handsome muscular man
 
